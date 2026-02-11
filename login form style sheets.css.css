@@ -23,7 +23,6 @@ body{
     padding: 25px 35px;
     backdrop-filter: blur(7px);
     color: #fff;
-    text-decoration: none;
 }
 
 .wrapper form h1{
